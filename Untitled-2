@@ -1,0 +1,11 @@
+LON -1.3739063101856206 LAT 54.97048789549708'
+
+
+
+
+
+userLON = (double) response.get("lon");
+                    userLAT = (double) response.get("lat");
+
+                    APhm.put("userLON", userLON);
+                    APhm.put("userLAT", userLAT);

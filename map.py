@@ -3,7 +3,7 @@ import numpy
 
 #assuming elevation = 0
 earthR = 6371
-LatA = 37.418436
+LatA = 
 LonA = -121.963477
 DistA = 0.265710701754
 LatB = 37.417243
